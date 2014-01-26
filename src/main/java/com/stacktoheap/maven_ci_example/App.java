@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello CI with TeamCity!" );
+        System.out.println( "Hello Maven CI with TeamCity!" );
     }
 }
