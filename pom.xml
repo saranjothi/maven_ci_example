@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>maven_ci_example</name>
   <url>http://maven.apache.org</url>
+  <scm>
+    <connection>scm:git:git://github.com/manojlds/maven_ci_example.git</connection>
+    <developerConnection>scm:git:git://github.com/manojlds/maven_ci_example.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/manojlds/maven_ci_example</url>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
